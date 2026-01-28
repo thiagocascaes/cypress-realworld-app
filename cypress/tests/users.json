@@ -7,5 +7,16 @@
     "invalidUser":{
         "username": "Test",
         "password": "test123"
+    },
+
+    "signUpUser":{
+        "firstName": "Thiago",
+        "lastName": "Cascaes",
+        "username": "thiagocascaes",
+        "password": "thiago123"
+    },
+
+    "invalidCredentials":{
+        "password": "123"
     }
 }

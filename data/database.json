@@ -74,6 +74,127 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
+    },
+    {
+      "id": "JemNiPAGD",
+      "uuid": "d94b138f-13de-4136-a1ae-7a47474533db",
+      "firstName": "Thiago",
+      "lastName": "Cascaes",
+      "username": "thiagocascaes",
+      "password": "$2a$10$wkg3vcPKwbrsHrj21Bk7Gudnck5Dk7d8XYRFwmSGktTLr24TXeoGe",
+      "balance": 0,
+      "createdAt": "2026-01-28T20:21:36.666Z",
+      "modifiedAt": "2026-01-28T20:21:36.666Z"
+    },
+    {
+      "id": "szKeDl1QK",
+      "uuid": "0e92fec4-8a08-4e53-bb15-9c223de6a8b4",
+      "firstName": "Thiago",
+      "lastName": "Cascaes",
+      "username": "thiagocascaes",
+      "password": "$2a$10$Y.vko05gsVEFqN9AfGXv8.U6wMW/YzEmEnk1qS.uGGSt5jk6NrLqG",
+      "balance": 0,
+      "createdAt": "2026-01-28T20:22:11.977Z",
+      "modifiedAt": "2026-01-28T20:22:11.977Z"
+    },
+    {
+      "id": "BEFwHiSyw",
+      "uuid": "de47b619-016c-4de2-b7d5-f073a889f26f",
+      "firstName": "Thiago",
+      "lastName": "Cascaes",
+      "username": "thiagocascaes",
+      "password": "$2a$10$aGpDH9tnvH1LNgUtam.w1OfcgLp4KKibzgqp3twFBwUWfFTKlzaw6",
+      "balance": 0,
+      "createdAt": "2026-01-28T20:28:50.977Z",
+      "modifiedAt": "2026-01-28T20:28:50.977Z"
+    },
+    {
+      "id": "wbvrqc_VZ",
+      "uuid": "64ede7f1-9f7e-41c9-a188-0324c0f75bd5",
+      "firstName": "Thiago",
+      "lastName": "Cascaes",
+      "username": "thiagocascaes",
+      "password": "$2a$10$U43BkK3ijM5NcfWrBIIbW.k0bSS5w1bLh10Wve74kU19F2IdRtTOW",
+      "balance": 0,
+      "createdAt": "2026-01-28T20:30:34.138Z",
+      "modifiedAt": "2026-01-28T20:30:34.138Z"
+    },
+    {
+      "id": "Kw8qWHykP",
+      "uuid": "4c110bd4-a107-456f-8771-38905b1c1ae2",
+      "firstName": "Thiago",
+      "lastName": "Cascaes",
+      "username": "thiagocascaes",
+      "password": "$2a$10$W3bucDcdADhnL/HeBBgm/ObgzZbFeXc5LP1tfcTbKo.TLxMp2DwR2",
+      "balance": 0,
+      "createdAt": "2026-01-28T20:31:22.832Z",
+      "modifiedAt": "2026-01-28T20:31:22.832Z"
+    },
+    {
+      "id": "nrixg2EmH",
+      "uuid": "7546a62b-e414-441c-8bca-7839ca4b1b5d",
+      "firstName": "Thiago",
+      "lastName": "Cascaes",
+      "username": "thiagocascaes",
+      "password": "$2a$10$QhW9izAqb9tsJyGpFQWnOO1Uo9RBfiaSBA8nPg6BXu7fPf8CA8QmO",
+      "balance": 0,
+      "createdAt": "2026-01-28T20:31:47.070Z",
+      "modifiedAt": "2026-01-28T20:31:47.070Z"
+    },
+    {
+      "id": "BQGvWHItR",
+      "uuid": "15645ee7-d04f-4324-b17f-494ad7ed27a7",
+      "firstName": "Thiago",
+      "lastName": "Cascaes",
+      "username": "thiagocascaes",
+      "password": "$2a$10$ssAkG2/sSpgk2xhM3QPcS.xI3lzvS/bZEE9aCNJSRB7CfM/ovem9m",
+      "balance": 0,
+      "createdAt": "2026-01-28T20:32:04.792Z",
+      "modifiedAt": "2026-01-28T20:32:04.792Z"
+    },
+    {
+      "id": "Rv3oXiAhQ",
+      "uuid": "66a57172-cbc4-4b2d-b7d6-bea4b62a71ce",
+      "firstName": "Thiago",
+      "lastName": "Cascaes",
+      "username": "thiagocascaes",
+      "password": "$2a$10$eyCFTXbnDtrZKF6Ds09muO6O4ePw1.S0.xO1oFA6SD/mEYEzJ2xVq",
+      "balance": 0,
+      "createdAt": "2026-01-28T20:32:12.478Z",
+      "modifiedAt": "2026-01-28T20:32:12.478Z"
+    },
+    {
+      "id": "tSCHsRnpu",
+      "uuid": "1bd1b0ac-4062-4c72-8cb0-a83359f36b12",
+      "firstName": "Thiago",
+      "lastName": "Cascaes",
+      "username": "thiagocascaes",
+      "password": "$2a$10$YcHLY5MXB9k7HAqRFSBfnOiPRw71/YoaK0UWd8SqCTEPsJIJ5dq.q",
+      "balance": 0,
+      "createdAt": "2026-01-28T20:42:50.752Z",
+      "modifiedAt": "2026-01-28T20:42:50.752Z"
+    },
+    {
+      "id": "lu2ofgyFj",
+      "uuid": "2a3c14da-7f4b-420d-bd61-d1111e1f1e88",
+      "firstName": "Thiago",
+      "lastName": "Cascaes",
+      "username": "thiagocascaes",
+      "password": "$2a$10$.Qmhsth7Ds3.xgf8axh/KOeL5LwKZsCZTc30AWyI3Txpyk22aHTha",
+      "balance": 0,
+      "createdAt": "2026-01-28T20:44:10.535Z",
+      "modifiedAt": "2026-01-28T20:44:10.535Z"
+    },
+    {
+      "id": "AbKMnr8dV",
+      "uuid": "314ce922-5f67-4a3d-b9f0-3f4e8d6110ba",
+      "firstName": "Thiago",
+      "lastName": "Cascaes",
+      "username": "thiagocascaes",
+      "password": "$2a$10$Xt3wQxsgkbm0J/Dopu.PDO.O4PbmB7P4hXl0xxhbrgaaVWC8dnZxa",
+      "balance": 0,
+      "createdAt": "2026-01-28T20:44:43.673Z",
+      "modifiedAt": "2026-01-28T20:44:43.673Z"
     }
   ],
   "contacts": [
