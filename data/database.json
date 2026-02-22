@@ -107,6 +107,17 @@
       "balance": 0,
       "createdAt": "2026-02-22T16:00:40.293Z",
       "modifiedAt": "2026-02-22T16:00:40.293Z"
+    },
+    {
+      "id": "qyqT7BCUQ",
+      "uuid": "ba1f0cc6-9f4f-4648-bd4a-3ffb4d5f5821",
+      "firstName": "Thiago",
+      "lastName": "Cascaes",
+      "username": "thiagocascaes",
+      "password": "$2a$10$.s2EzpmHq4sH2aI7qerrfe3Yu8MbJrPxEW2Ks5fdBC9wRGtZInpla",
+      "balance": 0,
+      "createdAt": "2026-02-22T16:19:58.515Z",
+      "modifiedAt": "2026-02-22T16:19:58.515Z"
     }
   ],
   "contacts": [
