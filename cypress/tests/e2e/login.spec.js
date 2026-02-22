@@ -1,14 +1,15 @@
-const user = require('../users.json')
+import user from '../../fixtures/users.json'
+import LoginPage from '../pages/loginPage'
 
-describe('Successul Login', () => {
-    beforeEach(() => {
-        cy.visit('/login')
-    })
+const loginPage = new LoginPage()
+
+describe('Successful Login', () => {
 
     it('Login with valid username and password', () => {
-        cy.get('input[name="username"]').type(user.validUser.username)
-        cy.get('input[name="password"]').type(user.validUser.password)
-        cy.get('button[type="submit"]').click()
-        cy.get('[fill-rule="nonzero"]').should('be.visible')
+        loginPage.accessloginPage()
+        cy.get(loginPage.selectorsList.usernameField).type(user.validUser.username)
+        cy.get(loginPage.selectorsList.passwordField).type(user.validUser.password)
+        cy.get(loginPage.selectorsList.submitButton).click()
+        cy.get(loginPage.selectorsList.dashboardIcon).should('be.visible')
     })
 })

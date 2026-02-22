@@ -1,4 +1,4 @@
-const register = require('../users.json')
+const register = require('../../fixtures/users.json')
 
 describe('Invalid SignUp', () => {
     beforeEach(() => {

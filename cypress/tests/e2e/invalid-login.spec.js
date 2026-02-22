@@ -1,4 +1,4 @@
-const user = require('../users.json')
+const user = require('../../fixtures/users.json')
 
 describe('Unsuccessful Login', () => {
     beforeEach(() => {
